@@ -6,4 +6,4 @@ seconds and writes its name and the store paths of its catalog inputs.
 
 | package | build time | catalog inputs |
 |---|---|---|
-| `python3Packages.network-odin-api` | 4 s | `python3Packages.flox-odin`, `python3Packages.network-vendor-api` |
+| `python3Packages.network-odin-api` | 4 s | `flox`, `python3Packages.flox-odin`, `python3Packages.network-vendor-api` |
